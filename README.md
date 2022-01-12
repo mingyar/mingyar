@@ -22,5 +22,5 @@ Hi! I'm Mingyar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 <p/>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&layout=compact&hide_border=true&theme=onedark&border_radius=5" width="520" height="400">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&layout=compact&hide_border=true&theme=onedark&border_radius=5" width="470" height="350">
 </p
