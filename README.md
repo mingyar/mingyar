@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### [Messengyr](https://github.com/mingyar/messengyr) — Real-Time Messaging App
+### Messengyr — Real-Time Messaging App
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Phoenix-FD4D00?logo=phoenixframework&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 
@@ -39,7 +39,7 @@ A Facebook Messenger clone with instant message delivery via WebSockets, decoupl
 
 ---
 
-### [Discuss](https://github.com/mingyar/discuss) — Forum Application
+### Discuss — Forum Application
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Phoenix_LiveView-7B2FFC?logo=phoenixframework&logoColor=white"> <img src="https://img.shields.io/badge/Ecto-FFD000?logo=elixir&logoColor=black"> <img src="https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 
@@ -49,7 +49,7 @@ Full-featured discussion board with user authentication, topic creation, and nes
 
 ---
 
-### [Identicon](https://github.com/mingyar/identicon) — CLI Utility
+### Identicon — CLI Utility
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/CLI-000?logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/Pattern_Matching-FF6F00?logo=elixir&logoColor=white">
 
@@ -59,7 +59,7 @@ Command-line tool generating unique visual identicons from string input. Demonst
 
 ---
 
-### [Stadium](https://github.com/mingyar/stadium) — API Integration
+### Stadium — API Integration
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/REST_API-25D366?logo=api&logoColor=white"> <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=white">
 
