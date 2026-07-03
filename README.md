@@ -81,8 +81,3 @@ API integration consuming the PokeAPI — HTTP requests, JSON transformation wit
 
 <a href="https://github.com/mingyar/stadium"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mingyar&theme=radical">
-</div>
