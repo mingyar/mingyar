@@ -84,8 +84,9 @@ API integration consuming the PokeAPI — HTTP requests, JSON transformation wit
 ---
 
 <div align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=mingyar&theme=radical&show_icons=true">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=mingyar&layout=compact&theme=radical">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=mingyar&theme=radical">
+  <img src="https://github-profile-trophy.vercel.app/?username=mingyar&theme=radical&no-frame=true">
+  <br><br>
+  <img src="https://edge-readme-stats.dancodes.online/heatmap?username=mingyar">
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mingyar&theme=radical">
 </div>
