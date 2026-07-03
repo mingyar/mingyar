@@ -1,19 +1,12 @@
 <div align="center">
-  <h1>⚡ Mingyar Furtado</h1>
-  <h3>Elixir Engineer</h3>
-  <p>
-    <a href="mailto:mingyar.furtado@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://linkedin.com/in/furtadomingyar">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://github.com/mingyar">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=mingyar&style=for-the-badge&color=blueviolet">
-  </p>
-  <p>📍 Brazil · UTC‑3</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mingyar%20Furtado&fontSize=50&fontAlignY=32&desc=Elixir%20Backend%20Engineer&descAlignY=55&descSize=22">
+  <br>
+  <a href="mailto:mingyar.furtado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/furtadomingyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mingyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=mingyar&style=for-the-badge&color=blueviolet">
+  <br>
+  <sub>📍 Brazil · UTC‑3</sub>
 </div>
 
 ---
