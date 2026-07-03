@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mingyar%20Furtado&fontSize=50&fontAlignY=32&desc=Elixir%20Backend%20Engineer&descAlignY=55&descSize=22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mingyar%20Furtado&fontSize=50&fontAlignY=32&desc=Elixir%20Engineer&descAlignY=55&descSize=22">
 </p>
 
 ## 🛠️ Tech Stack
