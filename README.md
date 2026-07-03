@@ -20,32 +20,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
-<img src="https://img.shields.io/badge/Phoenix_Framework-FD4D00?style=for-the-badge&logo=phoenixframework&logoColor=white">
-<img src="https://img.shields.io/badge/Ecto-FFD000?style=for-the-badge&logo=elixir&logoColor=black">
-<img src="https://img.shields.io/badge/LiveView-7B2FFC?style=for-the-badge&logo=elixir&logoColor=white">
-<img src="https://img.shields.io/badge/OTP-A020F0?style=for-the-badge&logo=elixir&logoColor=white">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
-**DevOps & Tools**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+| Category | Technologies |
+|---|---|
+| **Languages & Frameworks** | <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Phoenix-FD4D00?style=flat-square&logo=phoenixframework&logoColor=white"> <img src="https://img.shields.io/badge/Ecto-FFD000?style=flat-square&logo=elixir&logoColor=black"> <img src="https://img.shields.io/badge/LiveView-7B2FFC?style=flat-square&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/OTP-A020F0?style=flat-square&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"> |
 
 ---
 
@@ -92,12 +72,6 @@ API integration consuming the PokeAPI — HTTP requests, JSON transformation wit
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mingyar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats.vercel.app/api?username=mingyar&show_icons=true&theme=default&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&layout=compact&theme=default&hide_border=true">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=mingyar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180">
 </div>
