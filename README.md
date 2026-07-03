@@ -1,10 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mingyar%20Furtado&fontSize=50&fontAlignY=32&desc=Elixir%20Backend%20Engineer&descAlignY=55&descSize=22">
-  <br>
-  <a href="mailto:mingyar.furtado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/furtadomingyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=mingyar&style=for-the-badge&color=blueviolet">
-</div>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -26,8 +22,6 @@
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></td>
   </tr>
 </table>
-
----
 
 ## 🚀 Featured Projects
 
