@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  Elixir Backend Engineer with 12+ years of software development experience, including 3+ years building production systems with Elixir, Phoenix Framework, and OTP. Proven track record delivering scalable backend architecture, event-driven automation, and codebase migrations for remote-first product teams. Experienced working across distributed international environments with strong written and verbal communication in English. Passionate about functional programming and the BEAM ecosystem.
+  <font size="4">Elixir Backend Engineer with 12+ years of software development experience, including 3+ years building production systems with Elixir, Phoenix Framework, and OTP. Proven track record delivering scalable backend architecture, event-driven automation, and codebase migrations for remote-first product teams. Experienced working across distributed international environments with strong written and verbal communication in English. Passionate about functional programming and the BEAM ecosystem.</font>
 </p>
 
 ## 🛠️ Tech Stack
