@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Mingyar%20Furtado&fontSize=56&fontAlignY=28&desc=Elixir%20Engineer%20·%2012+%20years%20·%20Remote%20teams%20·%20Functional%20programming&descAlignY=52&descSize=20">
 </p>
 
+<p align="center">
+  12+ years of software engineering experience building scalable backend systems. Over 3 years working full-time with Elixir, Phoenix, and OTP in production — architecting event-driven automation, leading codebase migrations, and delivering solutions for remote-first teams across international markets.
+</p>
+
 ## 🛠️ Tech Stack
 
 <table>
